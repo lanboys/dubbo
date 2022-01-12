@@ -142,7 +142,8 @@
         <module>dubbo-demo</module>
         <module>dubbo-plugin</module>
         <module>dubbo-serialization</module>
-        <module>dubbo-compatible</module>
+        <!-- 这个模块过时了 可以看该模块下的说明 -->
+        <!--<module>dubbo-compatible</module>-->
         <module>dubbo-dependencies-bom</module>
         <module>dubbo-bom</module>
         <module>dubbo-all</module>
